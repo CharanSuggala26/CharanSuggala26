@@ -40,7 +40,7 @@
 
 <br/>
 
-<h3 align="center">💡 Inspirational Quote</h3>
+<h3 align="center">💡 Developer's Mantra</h3>
 
 <blockquote align="center">
   <em>"The best way to predict the future is to invent it."</em>
