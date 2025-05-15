@@ -38,3 +38,17 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<br/>
+
+<h3 align="center">💡 Inspirational Quote</h3>
+
+<blockquote align="center">
+  <em>"The best way to predict the future is to invent it."</em>
+  <br/>
+  — Alan Kay
+</blockquote>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Pushing+Forward!;Code.+Create.+Inspire.&center=true&width=400&height=45&color=F7DC6F&vCenter=true&pause=1000&size=22" />
+</p>
+
