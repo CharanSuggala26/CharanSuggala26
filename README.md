@@ -7,8 +7,10 @@
 
 - 👯 I’m looking to collaborate on **Generative AI Projects**
 
-- 🏆 Projects & Contributions **🌍 AI-Powered Job & Training Recommendation System – Intelligent job-matching & adaptive learning platform.💬 Ask me about🎯 Medicine Dosage Tracker – Helps users manage medicine intake efficiently.
-- AI Powered website for freelancers, AI Email Phhishing System, Drowsy Driver Detection, TalkToDatabase- which converts Natural Language into queries and retrievs data using SQL Servers, Automatic QR Generation for Parking System- Using Java and SQL, Library Management System.**
+- 🏆 Projects & Contributions **
+- 🌍 AI-Powered Job & Training Recommendation System – Intelligent job-matching & adaptive learning platform.💬 Ask me about🎯 Medicine Dosage Tracker – Helps users manage medicine intake efficiently.
+ AI Powered website for freelancers, AI Email Phhishing System, Drowsy Driver Detection, TalkToDatabase- which converts Natural Language into queries and retrievs data using SQL Servers, Automatic QR Generation for Parking System- Using Java and SQL, Library Management System.
+**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-lovat-six-79.vercel.app/](https://my-portfolio-lovat-six-79.vercel.app/)
 
