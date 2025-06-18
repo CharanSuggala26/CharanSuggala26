@@ -27,6 +27,7 @@
 | 💊 Smart Medicine Tracker | Intelligent medication reminders |
 | 🤖 AI Freelancer Platform | AI-powered freelancing ecosystem |
 | 🛡️ Email Phishing Detection | ML-based security solution |
+| 🤖 Mock Interviews | LLM Based Mock Interview System |
 | 🚗 Drowsy Driver Detection | Computer vision safety system |
 | 🗣️ TalkToDatabase | NLP to SQL conversion tool |
 | 🅿️ QR Parking System | Java + SQL parking management |
