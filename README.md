@@ -2,102 +2,105 @@
 <h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charansuggala26&label=Profile%20views&color=0e75b6&style=flat" alt="charansuggala26" />
+  <img src="https://komarev.com/ghpvc/?username=charansuggala26&label=Profile%20views&color=0e75b6&style=flat" alt="charansuggala26" /> 
+  <a href="https://github.com/charansuggala26?tab=followers">
+    <img src="https://img.shields.io/github/followers/charansuggala26?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
+---
 
+### 🔭 Currently Working On
+- Machine Learning projects
+- MERN Stack applications
+- Generative AI research
 
-- 🔭 I’m currently working on **Machine Learning** and **MERN Stack** projects  
-- 🤝 I’m looking to collaborate on **Generative AI** initiatives  
-- 💼 Featured Projects:  
-  - 🌐 AI-Powered Job & Training Recommendation System – Personalized job matching and adaptive learning  
-  - 💊 Medicine Dosage Tracker – Smart medicine intake reminders  
-  - 🤖 AI-Powered Freelancer Website  
-  - 🛡️ AI Email Phishing Detection System  
-  - 🚘 Drowsy Driver Detection  
-  - 🧠 TalkToDatabase – Convert Natural Language to SQL  
-  - 🅿️ QR-based Parking System (Java + SQL)  
-  - 📚 Library Management System
+### 🤝 Collaboration Interests
+- Open-source AI projects
+- Full-stack development initiatives
+- Innovative tech solutions
 
-- 🌐 Portfolio: [Visit My Portfolio](https://my-portfolio-lovat-six-79.vercel.app/)  
-- 📫 Reach me at **suggalasaicharan789@gmail.com**
+### 💼 Featured Projects
+| Project | Description |
+|---------|-------------|
+| 🌐 AI-Powered Job & Training System | Personalized job matching with adaptive learning |
+| 💊 Smart Medicine Tracker | Intelligent medication reminders |
+| 🤖 AI Freelancer Platform | AI-powered freelancing ecosystem |
+| 🛡️ Email Phishing Detection | ML-based security solution |
+| 🚗 Drowsy Driver Detection | Computer vision safety system |
+| 🗣️ TalkToDatabase | NLP to SQL conversion tool |
+| 🅿️ QR Parking System | Java + SQL parking management |
+| 📚 Library Management | Comprehensive book tracking system |
 
+### 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-lovat-six-79.vercel.app/)
 
+### 📫 Contact Me
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suggalasaicharan789@gmail.com)
 
-### 🌐 Connect with me:
+---
+
+### 🌐 Connect With Me
   
-<a href="https://linkedin.com/in/saicharansuggala" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://youtube.com/@saicharanguptha?si=FN_KrxM0_mibuco1" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://instagram.com/suggala_charan" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saicharansuggala)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@saicharanguptha?si=FN_KrxM0_mibuco1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suggala_charan)
+
+---
 
 ## 🧰 Tech Stack
 
 ### 🗣️ Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🧩 Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### ☁️ DevOps & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansuggala26&layout=compact&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=charansuggala26&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=charansuggala26&theme=radical&hide_border=true" />
+  <a href="https://github.com/charansuggala26">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansuggala26&layout=compact&theme=radical&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=charansuggala26&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="150" src="https://streak-stats.demolab.com/?user=charansuggala26&theme=radical&hide_border=true" />
+  </a>
 </div>
 
-
+---
 
 ## 💡 Developer's Mantra
-<blockquote align="center">
-  <em>"The best way to predict the future is to invent it."</em><br/>— Alan Kay
-</blockquote>
+> "The best way to predict the future is to invent it."  
+> — Alan Kay
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Pushing+Forward!;Code.+Create.+Inspire.&center=true&width=400&height=45&color=F7DC6F&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Pushing+Forward!;Code.+Create.+Inspire.&center=true&width=400&height=45&color=F7DC6F&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
