@@ -8,7 +8,6 @@
   </a>
 </p>
 
----
 
 ### 🔭 Currently Working On
 - Machine Learning projects
@@ -38,7 +37,6 @@
 ### 📫 Contact Me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suggalasaicharan789@gmail.com)
 
----
 
 ### 🌐 Connect With Me
   
@@ -46,7 +44,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@saicharanguptha?si=FN_KrxM0_mibuco1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suggala_charan)
 
----
 
 ## 🧰 Tech Stack
 
@@ -83,8 +80,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,7 +90,6 @@
   </a>
 </div>
 
----
 
 ## 💡 Developer's Mantra
 > "The best way to predict the future is to invent it."  
