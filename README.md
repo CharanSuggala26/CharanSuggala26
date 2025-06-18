@@ -88,7 +88,7 @@
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansuggala26&layout=compact&theme=radical&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=charansuggala26&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=charansuggala26&theme=radical&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=charansuggala26&theme=radical&hide_border=true" />
 </div>
 
 
