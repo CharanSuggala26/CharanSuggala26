@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=charansuggala26&label=Profile%20views&color=0e75b6&style=flat" alt="charansuggala26" />
 </p>
 
----
+
 
 - 🔭 I’m currently working on **Machine Learning** and **MERN Stack** projects  
 - 🤝 I’m looking to collaborate on **Generative AI** initiatives  
@@ -22,7 +22,7 @@
 - 🌐 Portfolio: [Visit My Portfolio](https://my-portfolio-lovat-six-79.vercel.app/)  
 - 📫 Reach me at **suggalasaicharan789@gmail.com**
 
----
+
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -37,7 +37,6 @@
   </a>
 </p>
 
----
 
 ## 🧰 Tech Stack
 
@@ -84,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -94,7 +93,7 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=charansuggala26&theme=radical&hide_border=true" />
 </div>
 
----
+
 
 ## 💡 Developer's Mantra
 <blockquote align="center">
