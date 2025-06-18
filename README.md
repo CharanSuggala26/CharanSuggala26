@@ -10,14 +10,15 @@
 
 
 ### 🔭 Currently Working On
-- Machine Learning projects
-- MERN Stack applications
-- Generative AI research
+- Machine Learning projects focused on real‑world problem solving and experimentation  
+- MERN Stack applications with comprehensive full‑stack functionality and engaging design features  
+- Generative AI research covering language models and image generation techniques  
 
 ### 🤝 Collaboration Interests
-- Open-source AI projects
-- Full-stack development initiatives
-- Innovative tech solutions
+- Open‑source AI projects that collectively drive impactful technological change forward  
+- Full‑stack development initiatives using cutting‑edge modern web technologies and practices  
+- Innovative tech solutions that effectively address pressing real‑world industry needs  
+
 
 ### 💼 Featured Projects
 | Project | Description |
