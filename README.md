@@ -23,15 +23,16 @@
 ### 💼 Featured Projects
 | Project | Description |
 |---------|-------------|
-| 🌐 AI-Powered Job & Training System | Personalized job matching with adaptive learning |
+| 🌐 Envision | Personalized job matching with adaptive learning |
 | 💊 Smart Medicine Tracker | Intelligent medication reminders |
 | 🤖 AI Freelancer Platform | AI-powered freelancing ecosystem |
-| 🛡️ Email Phishing Detection | ML-based security solution |
+| 👗 AI Outfit Assistant | AI-Powered Vacation Outfit System with Virtual TRY-ON |
+| 🛡️ Email Phishing Detection | ML-based security solution for emails|
 | 🤖 Mock Interviews | LLM Based Mock Interview System |
-| 🚗 Drowsy Driver Detection | Computer vision safety system |
-| 🗣️ TalkToDatabase | NLP to SQL conversion tool |
+| 🚗 Drowsy Driver Detection | Computer vision safety system for vehicles |
+| 🗣️ TalkToDatabase | NLP to SQL conversion system |
 | 🅿️ QR Parking System | Java + SQL parking management |
-| 📚 Library Management | Comprehensive book tracking system |
+| 📚 Library Management | Comprehensive book tracking system and library activities |
 
 ### 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-lovat-six-79.vercel.app/)
