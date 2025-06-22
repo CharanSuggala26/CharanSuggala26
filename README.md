@@ -9,15 +9,15 @@
 </p>
 
 
-### 🔭 Currently Working On
-- Machine Learning projects focused on real‑world problem solving and experimentation  
-- MERN Stack applications with comprehensive full‑stack functionality and engaging design features  
-- Generative AI research covering language models and image generation techniques  
+## 💼 About Me
 
-### 🤝 Collaboration Interests
-- Open‑source AI projects that collectively drive impactful technological change forward  
-- Full‑stack development initiatives using cutting‑edge modern web technologies and practices  
-- Innovative tech solutions that effectively address pressing real‑world industry needs  
+I’m an enthusiastic developer and researcher with a strong focus on solving real-world problems through **Machine Learning**, **Generative AI**, and **MERN stack development**. I enjoy building full-stack web applications with intuitive design and functionality, while also diving deep into AI model development—particularly in the areas of **language models** and **image generation**.
+
+## 🤝 Looking to Collaborate On:
+- Open-source **AI/ML projects** with real-world impact  
+- Full-stack development using **modern web technologies**  
+- Creative, tech-driven solutions addressing industry challenges  
+
 
 
 ### 💼 Featured Projects
