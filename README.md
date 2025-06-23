@@ -110,12 +110,30 @@ I’m an enthusiastic developer and researcher with a strong focus on solving re
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/charansuggala26">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansuggala26&layout=compact&theme=radical&hide_border=true" />
-    <img height="150" src="https://streak-stats.demolab.com/?user=charansuggala26&theme=radical&hide_border=true" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=charansuggala26&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansuggala26&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=charansuggala26&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=charansuggala26&theme=radical&no-frame=true&row=1&column=4" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=charansuggala26&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 💡 Developer's Mantra
