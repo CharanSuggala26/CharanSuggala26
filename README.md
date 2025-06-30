@@ -30,6 +30,7 @@ I’m an enthusiastic developer and researcher with a strong focus on solving re
 | 🛡️ Email Phishing Detection | ML-based security solution for emails|
 | 🤖 Mock Interviews | LLM Based Mock Interview System |
 | 🚗 Drowsy Driver Detection | Computer vision safety system for vehicles |
+| 📚 Smart Attendance System | Automates attendance using OpenCv |
 | 🗣️ TalkToDatabase | NLP to SQL conversion system |
 | 🅿️ QR Parking System | Java + SQL parking management |
 | 📚 Library Management | Comprehensive book tracking system and library activities |
