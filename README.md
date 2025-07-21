@@ -87,6 +87,8 @@ I’m an enthusiastic developer and researcher with a strong focus on solving re
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-1A237E?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=flat-square&logo=nltk&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF8B00?style=flat-square&logo=huggingface&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-005BBB?style=flat-square&logo=google&logoColor=white)
